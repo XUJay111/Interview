@@ -8,7 +8,7 @@
 
 --Mini-project V2 第二版的项目
 
-**1.选取的论文：**
+**1.选取的论文：**(Lerf由于文件太大没有上传)
 
 [1]Kerbl, B., Kopanas, G., Leimkühler, T., & Drettakis, G. (2023). 3d gaussian splatting for  real-time radiance field rendering. ACM Trans. Graph., 42(4), 139-1.
 
