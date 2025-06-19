@@ -1,9 +1,13 @@
 **整体项目目录解析：**
 
 --selected paper 选取的五篇论文
+
 --Paper Research pdf形式的阅读报告
+
 --Mini-project V1 第一版的项目 代码解读与效果展示pdf
+
 --Mini-project V2 第二版的项目 代码解读与效果展示pdf
+
 --学习资料 一些学习的笔记
 
 **1.选取的论文：**(Lerf由于文件太大没有上传)
