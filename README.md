@@ -4,9 +4,9 @@
 
 --paper research pdf形式的阅读报告
 
---Miniproject V1 第一版的项目
+--Mini-project V1 第一版的项目
 
---Miniproject V2 第二版的项目
+--Mini-project V2 第二版的项目
 
 **1.选取的论文：**
 
